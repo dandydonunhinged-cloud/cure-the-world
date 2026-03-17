@@ -13,7 +13,7 @@
 
 **DALLAS, TX** — Donald Brown, an independent systems researcher with no medical training, has published a comprehensive set of cancer treatment protocols generated through a novel recursive cognitive methodology called RPCCP (Recursive Precision Cognitive Calibration Protocol). The protocols, verified by six independent frontier AI models, propose a paradigm shift in cancer-associated fibroblast (CAF) therapeutics: targeting the tumor microenvironment's *ability to adapt* rather than its individual outputs.
 
-The full protocols and supporting data are available at: **https://dandydonunhinged-cloud.github.io/cure-the-world/**
+The full protocols and supporting data are available at: **https://changethenarrative.click**
 
 ### The Discovery
 
@@ -86,7 +86,7 @@ The Recursive Precision Cognitive Calibration Protocol is a novel cognitive arch
 
 ### Resources
 
-- **Full protocols and data:** https://dandydonunhinged-cloud.github.io/cure-the-world/
+- **Full protocols and data:** https://changethenarrative.click
 - **RPCCP Engine:** Open source (available upon request)
 - **Hypothesis paper:** Available for download at the website above
 

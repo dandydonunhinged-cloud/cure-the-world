@@ -132,7 +132,7 @@ These researchers are directly working on the problems RPCCP addresses. They hav
 
 ### Phase 1: Establish Priority (This Week)
 1. **bioRxiv preprint** — Upload the hypothesis paper. Gets a DOI. Establishes the date.
-2. **Website live** — Already done: https://dandydonunhinged-cloud.github.io/cure-the-world/
+2. **Website live** — Already done: https://changethenarrative.click
 
 ### Phase 2: Journal Submission (This Week)
 3. **Medical Hypotheses** — Primary target. Fastest review for hypothesis papers.
