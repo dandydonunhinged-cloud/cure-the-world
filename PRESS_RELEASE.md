@@ -96,8 +96,8 @@ The Recursive Precision Cognitive Calibration Protocol is a novel cognitive arch
 Donald Brown
 Cure the World Initiative
 Dallas, Texas
-[Email]
-[Phone]
+don@changethenarrative.click
+don@changethenarrative.click
 
 ---
 
